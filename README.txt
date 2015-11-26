@@ -4,4 +4,4 @@ Knock, knock.
 Who's there?
 Git.
 Git who?
-Git this joke over with.
+Git out of the doorway, I need to come in.
